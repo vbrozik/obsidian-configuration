@@ -1,0 +1,21 @@
+/workspace.json
+/appearance.json
+/graph.json
+/bookmarks.json
+
+# Use whitelisting for the plugins directory
+
+/plugins/*
+!/plugins/
+
+/plugins/obsidian-linter/*
+!/plugins/obsidian-linter/
+!/plugins/obsidian-linter/data.json
+
+/plugins/quick-links/*
+!/plugins/quick-links/
+!/plugins/quick-links/data.json
+
+/plugins/recent-notes/*
+!/plugins/recent-notes/
+!/plugins/recent-notes/data.json

@@ -1,0 +1,15 @@
+{
+  "useWikiLinkSyntax": true,
+  "quickLinks": [
+    {
+      "prefix": "w",
+      "target": "https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s",
+      "wordSeparator": ""
+    },
+    {
+      "prefix": "cpsk",
+      "target": "https://support.checkpoint.com/results/sk/%s",
+      "wordSeparator": ""
+    }
+  ]
+}
