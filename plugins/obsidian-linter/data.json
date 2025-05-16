@@ -216,7 +216,7 @@
       "enabled": false
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
-      "enabled": true
+      "enabled": false
     },
     "remove-link-spacing": {
       "enabled": true
