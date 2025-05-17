@@ -1,3 +1,5 @@
+/.worktrees/
+
 /workspace.json
 /appearance.json
 /graph.json
