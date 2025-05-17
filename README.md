@@ -36,6 +36,14 @@ The community plugins used in the configuration have to be installed manually. B
 - Smart Connections
   - Version: 25.16 By Brian Petro
 
+## About the repository
+
+If you need a testing branch to be checked out, you can add the `main` branch as a git worktree. Then it is easier to cherry-pick the changes to the main branch. VS Code will show the worktree as another repository in Source Control but you might need to navigate to the `.worktrees/main` directory to initiate the detection.
+
+``` shell
+git worktree add .worktrees/main/ main
+```
+
 ## TODO
 
 - [ ] Add pre-commit hook to check for sensitive data in the configuration files.
