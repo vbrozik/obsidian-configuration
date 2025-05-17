@@ -8,33 +8,25 @@ The content should be put directly to the `.obsidian` subdirectory of the vault 
 
 The community plugins used in the configuration have to be installed manually. Below is the list of their names (versions may be outdated). You have to search for them in the Obsidian settings one by one and install them.
 
-- Auto Link Title
-  - Version: 1.5.5 By Matt Furden
-- Code Styler
-  - Version: 1.1.7 By Mayuran Visakan
-- Filename Heading Sync
-  - Version: 1.93 By dvcm
-- Git
-  - Version: 233.0 By Vinzent
-- Linter
-  - Version: 1.29.0 By Victor Tao
-- Open vault in VSCode
-  - Version: 1.4.1 By NomarCub
-- Quick Links
-  - Version: 0.2.5 By Ian Fisher
-- Recent Notes
-  - Version: 13.1 By Kamil Rudnicki
-- Recent Tab Switcher
-  - Version: 1.O.1 By Samuel Ang
-- Reference Link Render
-  - Version: 10.O By njk039
+| Name                   | Version | Author         |
+|------------------------|---------|---------------|
+| Auto Link Title        | 1.5.5   | Matt Furden   |
+| Code Styler            | 1.1.7   | Mayuran Visakan|
+| Filename Heading Sync  | 1.93    | dvcm          |
+| Git                    | 233.0   | Vinzent       |
+| Linter                 | 1.29.0  | Victor Tao    |
+| Open vault in VSCode   | 1.4.1   | NomarCub      |
+| Quick Links            | 0.2.5   | Ian Fisher    |
+| Recent Notes           | 13.1    | Kamil Rudnicki|
+| Recent Tab Switcher    | 1.0.1   | Samuel Ang    |
+| Reference Link Render  | 10.0    | njk039        |
 
 ### Plugins just being tested
 
-- Copilot
-  - Version: 2.8.9 By Logan Yang
-- Smart Connections
-  - Version: 25.16 By Brian Petro
+| Name              | Version | Author      |
+|-------------------|---------|------------|
+| Copilot           | 2.8.9   | Logan Yang  |
+| Smart Connections | 25.16   | Brian Petro |
 
 ## About the repository
 
