@@ -10,6 +10,16 @@
       "prefix": "cpsk",
       "target": "https://support.checkpoint.com/results/sk/%s",
       "wordSeparator": ""
+    },
+    {
+      "prefix": "op",
+      "target": "https://obsidian.md/plugins?id=%s",
+      "wordSeparator": "-"
+    },
+    {
+      "prefix": "rfc",
+      "target": "https://datatracker.ietf.org/doc/html/%s",
+      "wordSeparator": ""
     }
   ]
 }
