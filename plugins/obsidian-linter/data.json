@@ -133,7 +133,7 @@
       "style": "consistent"
     },
     "no-bare-urls": {
-      "enabled": true,
+      "enabled": false,
       "no-bare-uris": true
     },
     "ordered-list-style": {
