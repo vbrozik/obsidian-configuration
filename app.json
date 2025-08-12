@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "/",
   "newLinkFormat": "relative",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "readableLineLength": true
 }
