@@ -21,3 +21,6 @@
 /plugins/recent-notes/*
 !/plugins/recent-notes/
 !/plugins/recent-notes/data.json
+
+workspaces.json
+command-palette.json
