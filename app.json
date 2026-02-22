@@ -7,5 +7,5 @@
   "attachmentFolderPath": "/",
   "newLinkFormat": "relative",
   "strictLineBreaks": true,
-  "readableLineLength": true
+  "readableLineLength": false
 }
