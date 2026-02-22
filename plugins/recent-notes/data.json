@@ -7,13 +7,20 @@
   "showVideoFiles": true,
   "showCanvasFiles": true,
   "showCSVFiles": true,
+  "showBaseFiles": true,
   "excludedFolders": [],
   "excludedFiles": [],
+  "excludedTags": [],
   "previewLines": 0,
   "showTime": true,
+  "showFolderName": true,
   "pinnedNotes": [],
   "dateFormat": "YYYY-MM-DD",
   "propertyModified": "",
   "density": "compact",
-  "openInNewTab": "new"
+  "openInNewTab": "new",
+  "showThumbnail": true,
+  "thumbnailProperty": "image",
+  "thumbnailPosition": "right",
+  "pageStepSize": 10
 }
