@@ -106,7 +106,8 @@
       "enabled": true
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": true
+      "enabled": true,
+      "include-blank-line-between-footnotes": false
     },
     "re-index-footnotes": {
       "enabled": true
@@ -243,7 +244,7 @@
     },
     "trailing-spaces": {
       "enabled": true,
-      "twp-space-line-break": true
+      "two-space-line-break": true
     },
     "add-blockquote-indentation-on-paste": {
       "enabled": false
@@ -273,6 +274,7 @@
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
+  "suppressMessageWhenNoChange": false,
   "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
